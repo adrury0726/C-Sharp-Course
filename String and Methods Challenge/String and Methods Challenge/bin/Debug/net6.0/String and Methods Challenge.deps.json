@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "String and Methods Challenge/1.0.0": {
+        "runtime": {
+          "String and Methods Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String and Methods Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

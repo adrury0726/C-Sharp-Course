@@ -1,0 +1,15 @@
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\bin\Debug\net6.0\String and Methods Challenge.exe
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\bin\Debug\net6.0\String and Methods Challenge.deps.json
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\bin\Debug\net6.0\String and Methods Challenge.runtimeconfig.json
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\bin\Debug\net6.0\String and Methods Challenge.dll
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\bin\Debug\net6.0\String and Methods Challenge.pdb
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.csproj.AssemblyReference.cache
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.AssemblyInfoInputs.cache
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.AssemblyInfo.cs
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.csproj.CoreCompileInputs.cache
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.dll
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\refint\String and Methods Challenge.dll
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.pdb
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\String and Methods Challenge.genruntimeconfig.cache
+H:\C# Learning\String and Methods Challenge\String and Methods Challenge\obj\Debug\net6.0\ref\String and Methods Challenge.dll

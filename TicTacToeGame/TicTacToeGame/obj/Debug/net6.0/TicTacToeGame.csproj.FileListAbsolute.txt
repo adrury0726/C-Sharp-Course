@@ -1,0 +1,15 @@
+H:\C# Learning\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.exe
+H:\C# Learning\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.deps.json
+H:\C# Learning\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.runtimeconfig.json
+H:\C# Learning\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.dll
+H:\C# Learning\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.pdb
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.AssemblyReference.cache
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfoInputs.cache
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfo.cs
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.dll
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\refint\TicTacToeGame.dll
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.pdb
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.genruntimeconfig.cache
+H:\C# Learning\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0\ref\TicTacToeGame.dll

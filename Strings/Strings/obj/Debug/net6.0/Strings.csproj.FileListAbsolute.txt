@@ -1,0 +1,15 @@
+H:\C# Learning\Strings\Strings\bin\Debug\net6.0\Strings.exe
+H:\C# Learning\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+H:\C# Learning\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+H:\C# Learning\Strings\Strings\bin\Debug\net6.0\Strings.dll
+H:\C# Learning\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.dll
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+H:\C# Learning\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll
