@@ -1,0 +1,15 @@
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\bin\Debug\net6.0\UsingArraysasParameters.exe
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\bin\Debug\net6.0\UsingArraysasParameters.deps.json
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\bin\Debug\net6.0\UsingArraysasParameters.runtimeconfig.json
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\bin\Debug\net6.0\UsingArraysasParameters.dll
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\bin\Debug\net6.0\UsingArraysasParameters.pdb
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.csproj.AssemblyReference.cache
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.AssemblyInfoInputs.cache
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.AssemblyInfo.cs
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.csproj.CoreCompileInputs.cache
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.dll
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\refint\UsingArraysasParameters.dll
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.pdb
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\UsingArraysasParameters.genruntimeconfig.cache
+H:\C# Learning\UsingArraysasParameters\UsingArraysasParameters\obj\Debug\net6.0\ref\UsingArraysasParameters.dll

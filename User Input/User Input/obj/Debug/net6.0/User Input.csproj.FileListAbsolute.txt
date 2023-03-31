@@ -1,0 +1,15 @@
+H:\C# Learning\User Input\User Input\bin\Debug\net6.0\User Input.exe
+H:\C# Learning\User Input\User Input\bin\Debug\net6.0\User Input.deps.json
+H:\C# Learning\User Input\User Input\bin\Debug\net6.0\User Input.runtimeconfig.json
+H:\C# Learning\User Input\User Input\bin\Debug\net6.0\User Input.dll
+H:\C# Learning\User Input\User Input\bin\Debug\net6.0\User Input.pdb
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.csproj.AssemblyReference.cache
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.AssemblyInfoInputs.cache
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.AssemblyInfo.cs
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.csproj.CoreCompileInputs.cache
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.dll
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\refint\User Input.dll
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.pdb
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\User Input.genruntimeconfig.cache
+H:\C# Learning\User Input\User Input\obj\Debug\net6.0\ref\User Input.dll

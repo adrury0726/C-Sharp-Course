@@ -1,0 +1,15 @@
+H:\C# Learning\Try and Catch\Try and Catch\bin\Debug\net6.0\Try and Catch.exe
+H:\C# Learning\Try and Catch\Try and Catch\bin\Debug\net6.0\Try and Catch.deps.json
+H:\C# Learning\Try and Catch\Try and Catch\bin\Debug\net6.0\Try and Catch.runtimeconfig.json
+H:\C# Learning\Try and Catch\Try and Catch\bin\Debug\net6.0\Try and Catch.dll
+H:\C# Learning\Try and Catch\Try and Catch\bin\Debug\net6.0\Try and Catch.pdb
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.csproj.AssemblyReference.cache
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.AssemblyInfoInputs.cache
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.AssemblyInfo.cs
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.csproj.CoreCompileInputs.cache
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.dll
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\refint\Try and Catch.dll
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.pdb
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\Try and Catch.genruntimeconfig.cache
+H:\C# Learning\Try and Catch\Try and Catch\obj\Debug\net6.0\ref\Try and Catch.dll
