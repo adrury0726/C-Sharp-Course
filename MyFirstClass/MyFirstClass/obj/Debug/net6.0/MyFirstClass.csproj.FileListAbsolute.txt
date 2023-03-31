@@ -1,0 +1,15 @@
+H:\C# Learning\MyFirstClass\MyFirstClass\bin\Debug\net6.0\MyFirstClass.exe
+H:\C# Learning\MyFirstClass\MyFirstClass\bin\Debug\net6.0\MyFirstClass.deps.json
+H:\C# Learning\MyFirstClass\MyFirstClass\bin\Debug\net6.0\MyFirstClass.runtimeconfig.json
+H:\C# Learning\MyFirstClass\MyFirstClass\bin\Debug\net6.0\MyFirstClass.dll
+H:\C# Learning\MyFirstClass\MyFirstClass\bin\Debug\net6.0\MyFirstClass.pdb
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.csproj.AssemblyReference.cache
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.AssemblyInfoInputs.cache
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.AssemblyInfo.cs
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.csproj.CoreCompileInputs.cache
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.dll
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\refint\MyFirstClass.dll
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.pdb
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\MyFirstClass.genruntimeconfig.cache
+H:\C# Learning\MyFirstClass\MyFirstClass\obj\Debug\net6.0\ref\MyFirstClass.dll

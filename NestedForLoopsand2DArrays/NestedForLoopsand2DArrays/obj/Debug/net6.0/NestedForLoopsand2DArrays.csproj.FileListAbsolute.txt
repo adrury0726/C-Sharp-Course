@@ -1,0 +1,15 @@
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\bin\Debug\net6.0\NestedForLoopsand2DArrays.exe
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\bin\Debug\net6.0\NestedForLoopsand2DArrays.deps.json
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\bin\Debug\net6.0\NestedForLoopsand2DArrays.runtimeconfig.json
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\bin\Debug\net6.0\NestedForLoopsand2DArrays.dll
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\bin\Debug\net6.0\NestedForLoopsand2DArrays.pdb
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.csproj.AssemblyReference.cache
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.AssemblyInfoInputs.cache
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.AssemblyInfo.cs
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.csproj.CoreCompileInputs.cache
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.dll
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\refint\NestedForLoopsand2DArrays.dll
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.pdb
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\NestedForLoopsand2DArrays.genruntimeconfig.cache
+H:\C# Learning\NestedForLoopsand2DArrays\NestedForLoopsand2DArrays\obj\Debug\net6.0\ref\NestedForLoopsand2DArrays.dll

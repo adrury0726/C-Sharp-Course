@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NestedForLoopsand2DArrays/1.0.0": {
+        "runtime": {
+          "NestedForLoopsand2DArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestedForLoopsand2DArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
