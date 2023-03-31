@@ -1,0 +1,15 @@
+H:\C# Learning\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.exe
+H:\C# Learning\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.deps.json
+H:\C# Learning\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.runtimeconfig.json
+H:\C# Learning\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.dll
+H:\C# Learning\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.pdb
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.csproj.AssemblyReference.cache
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.AssemblyInfoInputs.cache
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.AssemblyInfo.cs
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.csproj.CoreCompileInputs.cache
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.dll
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\refint\LoopsChallenge.dll
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.pdb
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.genruntimeconfig.cache
+H:\C# Learning\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\ref\LoopsChallenge.dll
