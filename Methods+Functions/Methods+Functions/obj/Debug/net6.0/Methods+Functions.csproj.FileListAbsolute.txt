@@ -1,0 +1,15 @@
+H:\C# Learning\Methods+Functions\Methods+Functions\bin\Debug\net6.0\Methods+Functions.exe
+H:\C# Learning\Methods+Functions\Methods+Functions\bin\Debug\net6.0\Methods+Functions.deps.json
+H:\C# Learning\Methods+Functions\Methods+Functions\bin\Debug\net6.0\Methods+Functions.runtimeconfig.json
+H:\C# Learning\Methods+Functions\Methods+Functions\bin\Debug\net6.0\Methods+Functions.dll
+H:\C# Learning\Methods+Functions\Methods+Functions\bin\Debug\net6.0\Methods+Functions.pdb
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.csproj.AssemblyReference.cache
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.AssemblyInfoInputs.cache
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.AssemblyInfo.cs
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.csproj.CoreCompileInputs.cache
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.dll
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\refint\Methods+Functions.dll
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.pdb
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\Methods+Functions.genruntimeconfig.cache
+H:\C# Learning\Methods+Functions\Methods+Functions\obj\Debug\net6.0\ref\Methods+Functions.dll

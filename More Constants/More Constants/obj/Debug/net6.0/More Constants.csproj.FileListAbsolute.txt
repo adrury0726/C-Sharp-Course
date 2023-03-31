@@ -1,0 +1,15 @@
+H:\C# Learning\More Constants\More Constants\bin\Debug\net6.0\More Constants.exe
+H:\C# Learning\More Constants\More Constants\bin\Debug\net6.0\More Constants.deps.json
+H:\C# Learning\More Constants\More Constants\bin\Debug\net6.0\More Constants.runtimeconfig.json
+H:\C# Learning\More Constants\More Constants\bin\Debug\net6.0\More Constants.dll
+H:\C# Learning\More Constants\More Constants\bin\Debug\net6.0\More Constants.pdb
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.csproj.AssemblyReference.cache
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.AssemblyInfoInputs.cache
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.AssemblyInfo.cs
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.csproj.CoreCompileInputs.cache
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.dll
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\refint\More Constants.dll
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.pdb
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\More Constants.genruntimeconfig.cache
+H:\C# Learning\More Constants\More Constants\obj\Debug\net6.0\ref\More Constants.dll

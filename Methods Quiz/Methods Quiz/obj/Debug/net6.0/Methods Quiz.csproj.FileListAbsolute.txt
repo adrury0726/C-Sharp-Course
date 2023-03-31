@@ -1,0 +1,15 @@
+H:\C# Learning\Methods Quiz\Methods Quiz\bin\Debug\net6.0\Methods Quiz.exe
+H:\C# Learning\Methods Quiz\Methods Quiz\bin\Debug\net6.0\Methods Quiz.deps.json
+H:\C# Learning\Methods Quiz\Methods Quiz\bin\Debug\net6.0\Methods Quiz.runtimeconfig.json
+H:\C# Learning\Methods Quiz\Methods Quiz\bin\Debug\net6.0\Methods Quiz.dll
+H:\C# Learning\Methods Quiz\Methods Quiz\bin\Debug\net6.0\Methods Quiz.pdb
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.csproj.AssemblyReference.cache
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.AssemblyInfoInputs.cache
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.AssemblyInfo.cs
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.csproj.CoreCompileInputs.cache
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.dll
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\refint\Methods Quiz.dll
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.pdb
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\Methods Quiz.genruntimeconfig.cache
+H:\C# Learning\Methods Quiz\Methods Quiz\obj\Debug\net6.0\ref\Methods Quiz.dll
