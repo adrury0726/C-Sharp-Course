@@ -1,0 +1,5 @@
+H:\C# Learning\Functions and Methods\Functions and Methods\obj\Debug\net6.0\Functions and Methods.csproj.AssemblyReference.cache
+H:\C# Learning\Functions and Methods\Functions and Methods\obj\Debug\net6.0\Functions and Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Functions and Methods\Functions and Methods\obj\Debug\net6.0\Functions and Methods.AssemblyInfoInputs.cache
+H:\C# Learning\Functions and Methods\Functions and Methods\obj\Debug\net6.0\Functions and Methods.AssemblyInfo.cs
+H:\C# Learning\Functions and Methods\Functions and Methods\obj\Debug\net6.0\Functions and Methods.csproj.CoreCompileInputs.cache
