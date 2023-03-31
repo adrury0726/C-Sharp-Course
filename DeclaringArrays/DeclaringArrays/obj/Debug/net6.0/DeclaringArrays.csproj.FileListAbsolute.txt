@@ -1,0 +1,15 @@
+H:\C# Learning\DeclaringArrays\DeclaringArrays\bin\Debug\net6.0\DeclaringArrays.exe
+H:\C# Learning\DeclaringArrays\DeclaringArrays\bin\Debug\net6.0\DeclaringArrays.deps.json
+H:\C# Learning\DeclaringArrays\DeclaringArrays\bin\Debug\net6.0\DeclaringArrays.runtimeconfig.json
+H:\C# Learning\DeclaringArrays\DeclaringArrays\bin\Debug\net6.0\DeclaringArrays.dll
+H:\C# Learning\DeclaringArrays\DeclaringArrays\bin\Debug\net6.0\DeclaringArrays.pdb
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.csproj.AssemblyReference.cache
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.AssemblyInfoInputs.cache
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.AssemblyInfo.cs
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.csproj.CoreCompileInputs.cache
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.dll
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\refint\DeclaringArrays.dll
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.pdb
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\DeclaringArrays.genruntimeconfig.cache
+H:\C# Learning\DeclaringArrays\DeclaringArrays\obj\Debug\net6.0\ref\DeclaringArrays.dll
