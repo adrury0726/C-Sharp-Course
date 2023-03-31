@@ -1,0 +1,15 @@
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.csproj.AssemblyReference.cache
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.AssemblyInfoInputs.cache
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.AssemblyInfo.cs
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.csproj.CoreCompileInputs.cache
+H:\C# Learning\HashTables\HashTables\bin\Debug\net6.0\HashTables.exe
+H:\C# Learning\HashTables\HashTables\bin\Debug\net6.0\HashTables.deps.json
+H:\C# Learning\HashTables\HashTables\bin\Debug\net6.0\HashTables.runtimeconfig.json
+H:\C# Learning\HashTables\HashTables\bin\Debug\net6.0\HashTables.dll
+H:\C# Learning\HashTables\HashTables\bin\Debug\net6.0\HashTables.pdb
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.dll
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\refint\HashTables.dll
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.pdb
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\HashTables.genruntimeconfig.cache
+H:\C# Learning\HashTables\HashTables\obj\Debug\net6.0\ref\HashTables.dll

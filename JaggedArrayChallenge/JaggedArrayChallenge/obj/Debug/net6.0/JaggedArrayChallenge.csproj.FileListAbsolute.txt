@@ -1,0 +1,15 @@
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\net6.0\JaggedArrayChallenge.exe
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\net6.0\JaggedArrayChallenge.deps.json
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\net6.0\JaggedArrayChallenge.runtimeconfig.json
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\net6.0\JaggedArrayChallenge.dll
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\net6.0\JaggedArrayChallenge.pdb
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.csproj.AssemblyReference.cache
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.AssemblyInfoInputs.cache
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.AssemblyInfo.cs
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.csproj.CoreCompileInputs.cache
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.dll
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\refint\JaggedArrayChallenge.dll
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.pdb
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\JaggedArrayChallenge.genruntimeconfig.cache
+H:\C# Learning\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\net6.0\ref\JaggedArrayChallenge.dll

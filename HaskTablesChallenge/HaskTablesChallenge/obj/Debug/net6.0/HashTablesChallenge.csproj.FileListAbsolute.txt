@@ -1,0 +1,15 @@
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.csproj.AssemblyReference.cache
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.AssemblyInfoInputs.cache
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.AssemblyInfo.cs
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.csproj.CoreCompileInputs.cache
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\bin\Debug\net6.0\HashTablesChallenge.exe
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\bin\Debug\net6.0\HashTablesChallenge.deps.json
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\bin\Debug\net6.0\HashTablesChallenge.runtimeconfig.json
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\bin\Debug\net6.0\HashTablesChallenge.dll
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\bin\Debug\net6.0\HashTablesChallenge.pdb
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.dll
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\refint\HashTablesChallenge.dll
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.pdb
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\HashTablesChallenge.genruntimeconfig.cache
+H:\C# Learning\HaskTablesChallenge\HaskTablesChallenge\obj\Debug\net6.0\ref\HashTablesChallenge.dll
