@@ -1,0 +1,15 @@
+H:\C# Learning\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.exe
+H:\C# Learning\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.deps.json
+H:\C# Learning\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.runtimeconfig.json
+H:\C# Learning\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.dll
+H:\C# Learning\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.pdb
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.csproj.AssemblyReference.cache
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.AssemblyInfoInputs.cache
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.AssemblyInfo.cs
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.csproj.CoreCompileInputs.cache
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.dll
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\refint\Foreachloop.dll
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.pdb
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.genruntimeconfig.cache
+H:\C# Learning\Foreachloop\Foreachloop\obj\Debug\net6.0\ref\Foreachloop.dll

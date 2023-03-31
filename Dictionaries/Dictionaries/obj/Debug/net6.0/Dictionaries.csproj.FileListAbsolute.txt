@@ -1,0 +1,15 @@
+H:\C# Learning\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+H:\C# Learning\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+H:\C# Learning\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+H:\C# Learning\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+H:\C# Learning\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.AssemblyReference.cache
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+H:\C# Learning\Dictionaries\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll

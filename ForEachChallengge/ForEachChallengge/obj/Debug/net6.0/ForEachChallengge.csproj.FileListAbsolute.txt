@@ -1,0 +1,15 @@
+H:\C# Learning\ForEachChallengge\ForEachChallengge\bin\Debug\net6.0\ForEachChallengge.exe
+H:\C# Learning\ForEachChallengge\ForEachChallengge\bin\Debug\net6.0\ForEachChallengge.deps.json
+H:\C# Learning\ForEachChallengge\ForEachChallengge\bin\Debug\net6.0\ForEachChallengge.runtimeconfig.json
+H:\C# Learning\ForEachChallengge\ForEachChallengge\bin\Debug\net6.0\ForEachChallengge.dll
+H:\C# Learning\ForEachChallengge\ForEachChallengge\bin\Debug\net6.0\ForEachChallengge.pdb
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.csproj.AssemblyReference.cache
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.AssemblyInfoInputs.cache
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.AssemblyInfo.cs
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.csproj.CoreCompileInputs.cache
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.dll
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\refint\ForEachChallengge.dll
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.pdb
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ForEachChallengge.genruntimeconfig.cache
+H:\C# Learning\ForEachChallengge\ForEachChallengge\obj\Debug\net6.0\ref\ForEachChallengge.dll
