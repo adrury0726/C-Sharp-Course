@@ -1,0 +1,15 @@
+H:\C# Learning\Operators\Operators\bin\Debug\net6.0\Operators.exe
+H:\C# Learning\Operators\Operators\bin\Debug\net6.0\Operators.deps.json
+H:\C# Learning\Operators\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+H:\C# Learning\Operators\Operators\bin\Debug\net6.0\Operators.dll
+H:\C# Learning\Operators\Operators\bin\Debug\net6.0\Operators.pdb
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.dll
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\refint\Operators.dll
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.pdb
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+H:\C# Learning\Operators\Operators\obj\Debug\net6.0\ref\Operators.dll

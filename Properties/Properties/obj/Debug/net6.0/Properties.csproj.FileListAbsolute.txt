@@ -1,0 +1,15 @@
+H:\C# Learning\Properties\Properties\bin\Debug\net6.0\Properties.exe
+H:\C# Learning\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+H:\C# Learning\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+H:\C# Learning\Properties\Properties\bin\Debug\net6.0\Properties.dll
+H:\C# Learning\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.dll
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+H:\C# Learning\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll

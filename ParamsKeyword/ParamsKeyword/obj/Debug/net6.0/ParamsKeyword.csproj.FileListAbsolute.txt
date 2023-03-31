@@ -1,0 +1,15 @@
+H:\C# Learning\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.exe
+H:\C# Learning\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.deps.json
+H:\C# Learning\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.runtimeconfig.json
+H:\C# Learning\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.dll
+H:\C# Learning\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.pdb
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.AssemblyReference.cache
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfoInputs.cache
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfo.cs
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.dll
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\refint\ParamsKeyword.dll
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.pdb
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.genruntimeconfig.cache
+H:\C# Learning\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ref\ParamsKeyword.dll
