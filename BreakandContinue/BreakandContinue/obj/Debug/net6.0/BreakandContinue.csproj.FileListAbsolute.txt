@@ -1,0 +1,15 @@
+H:\C# Learning\BreakandContinue\BreakandContinue\bin\Debug\net6.0\BreakandContinue.exe
+H:\C# Learning\BreakandContinue\BreakandContinue\bin\Debug\net6.0\BreakandContinue.deps.json
+H:\C# Learning\BreakandContinue\BreakandContinue\bin\Debug\net6.0\BreakandContinue.runtimeconfig.json
+H:\C# Learning\BreakandContinue\BreakandContinue\bin\Debug\net6.0\BreakandContinue.dll
+H:\C# Learning\BreakandContinue\BreakandContinue\bin\Debug\net6.0\BreakandContinue.pdb
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.csproj.AssemblyReference.cache
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.AssemblyInfoInputs.cache
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.AssemblyInfo.cs
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.csproj.CoreCompileInputs.cache
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.dll
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\refint\BreakandContinue.dll
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.pdb
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\BreakandContinue.genruntimeconfig.cache
+H:\C# Learning\BreakandContinue\BreakandContinue\obj\Debug\net6.0\ref\BreakandContinue.dll

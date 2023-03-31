@@ -1,0 +1,15 @@
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.csproj.AssemblyReference.cache
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.AssemblyInfoInputs.cache
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.AssemblyInfo.cs
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.csproj.CoreCompileInputs.cache
+H:\C# Learning\Constants\Constants\bin\Debug\net6.0\Constants.exe
+H:\C# Learning\Constants\Constants\bin\Debug\net6.0\Constants.deps.json
+H:\C# Learning\Constants\Constants\bin\Debug\net6.0\Constants.runtimeconfig.json
+H:\C# Learning\Constants\Constants\bin\Debug\net6.0\Constants.dll
+H:\C# Learning\Constants\Constants\bin\Debug\net6.0\Constants.pdb
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.dll
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\refint\Constants.dll
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.pdb
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\Constants.genruntimeconfig.cache
+H:\C# Learning\Constants\Constants\obj\Debug\net6.0\ref\Constants.dll
