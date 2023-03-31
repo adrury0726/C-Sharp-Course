@@ -1,0 +1,15 @@
+H:\C# Learning\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.exe
+H:\C# Learning\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.deps.json
+H:\C# Learning\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.runtimeconfig.json
+H:\C# Learning\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.dll
+H:\C# Learning\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.pdb
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.AssemblyReference.cache
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfoInputs.cache
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfo.cs
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.CoreCompileInputs.cache
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.dll
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\refint\ArrayLists.dll
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.pdb
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.genruntimeconfig.cache
+H:\C# Learning\ArrayLists\ArrayLists\obj\Debug\net6.0\ref\ArrayLists.dll
