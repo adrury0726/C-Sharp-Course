@@ -1,0 +1,15 @@
+H:\C# Learning\Stacks\Stacks\bin\Debug\net6.0\Stacks.exe
+H:\C# Learning\Stacks\Stacks\bin\Debug\net6.0\Stacks.deps.json
+H:\C# Learning\Stacks\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+H:\C# Learning\Stacks\Stacks\bin\Debug\net6.0\Stacks.dll
+H:\C# Learning\Stacks\Stacks\bin\Debug\net6.0\Stacks.pdb
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.dll
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.pdb
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+H:\C# Learning\Stacks\Stacks\obj\Debug\net6.0\ref\Stacks.dll

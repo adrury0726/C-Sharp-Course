@@ -1,0 +1,15 @@
+H:\C# Learning\Queues\Queues\bin\Debug\net6.0\Queues.exe
+H:\C# Learning\Queues\Queues\bin\Debug\net6.0\Queues.deps.json
+H:\C# Learning\Queues\Queues\bin\Debug\net6.0\Queues.runtimeconfig.json
+H:\C# Learning\Queues\Queues\bin\Debug\net6.0\Queues.dll
+H:\C# Learning\Queues\Queues\bin\Debug\net6.0\Queues.pdb
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.csproj.AssemblyReference.cache
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.AssemblyInfoInputs.cache
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.AssemblyInfo.cs
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.csproj.CoreCompileInputs.cache
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.dll
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\refint\Queues.dll
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.pdb
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\Queues.genruntimeconfig.cache
+H:\C# Learning\Queues\Queues\obj\Debug\net6.0\ref\Queues.dll
