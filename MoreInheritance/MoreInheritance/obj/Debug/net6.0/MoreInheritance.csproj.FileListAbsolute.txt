@@ -1,0 +1,15 @@
+H:\C# Learning\MoreInheritance\MoreInheritance\bin\Debug\net6.0\MoreInheritance.exe
+H:\C# Learning\MoreInheritance\MoreInheritance\bin\Debug\net6.0\MoreInheritance.deps.json
+H:\C# Learning\MoreInheritance\MoreInheritance\bin\Debug\net6.0\MoreInheritance.runtimeconfig.json
+H:\C# Learning\MoreInheritance\MoreInheritance\bin\Debug\net6.0\MoreInheritance.dll
+H:\C# Learning\MoreInheritance\MoreInheritance\bin\Debug\net6.0\MoreInheritance.pdb
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.csproj.AssemblyReference.cache
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.AssemblyInfoInputs.cache
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.AssemblyInfo.cs
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.csproj.CoreCompileInputs.cache
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.dll
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\refint\MoreInheritance.dll
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.pdb
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\MoreInheritance.genruntimeconfig.cache
+H:\C# Learning\MoreInheritance\MoreInheritance\obj\Debug\net6.0\ref\MoreInheritance.dll
