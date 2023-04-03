@@ -1,0 +1,15 @@
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\bin\Debug\net6.0\VirtualAndOverride.exe
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\bin\Debug\net6.0\VirtualAndOverride.deps.json
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\bin\Debug\net6.0\VirtualAndOverride.runtimeconfig.json
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\bin\Debug\net6.0\VirtualAndOverride.dll
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\bin\Debug\net6.0\VirtualAndOverride.pdb
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.csproj.AssemblyReference.cache
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.AssemblyInfoInputs.cache
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.AssemblyInfo.cs
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.csproj.CoreCompileInputs.cache
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.dll
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\refint\VirtualAndOverride.dll
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.pdb
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\VirtualAndOverride.genruntimeconfig.cache
+H:\C# Learning\VirtualAndOverride\VirtualAndOverride\obj\Debug\net6.0\ref\VirtualAndOverride.dll

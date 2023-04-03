@@ -1,0 +1,15 @@
+H:\C# Learning\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+H:\C# Learning\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+H:\C# Learning\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+H:\C# Learning\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+H:\C# Learning\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+H:\C# Learning\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
