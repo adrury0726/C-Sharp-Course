@@ -1,0 +1,15 @@
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\bin\Debug\net6.0\PolymorphicParameters.exe
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\bin\Debug\net6.0\PolymorphicParameters.deps.json
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\bin\Debug\net6.0\PolymorphicParameters.runtimeconfig.json
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\bin\Debug\net6.0\PolymorphicParameters.dll
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\bin\Debug\net6.0\PolymorphicParameters.pdb
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.csproj.AssemblyReference.cache
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.AssemblyInfoInputs.cache
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.AssemblyInfo.cs
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.csproj.CoreCompileInputs.cache
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.dll
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\refint\PolymorphicParameters.dll
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.pdb
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\PolymorphicParameters.genruntimeconfig.cache
+H:\C# Learning\PolymorphicParameters\PolymorphicParameters\obj\Debug\net6.0\ref\PolymorphicParameters.dll
