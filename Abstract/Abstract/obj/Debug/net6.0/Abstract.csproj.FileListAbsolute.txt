@@ -1,0 +1,15 @@
+H:\C# Learning\Abstract\Abstract\bin\Debug\net6.0\Abstract.exe
+H:\C# Learning\Abstract\Abstract\bin\Debug\net6.0\Abstract.deps.json
+H:\C# Learning\Abstract\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+H:\C# Learning\Abstract\Abstract\bin\Debug\net6.0\Abstract.dll
+H:\C# Learning\Abstract\Abstract\bin\Debug\net6.0\Abstract.pdb
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.dll
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.pdb
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+H:\C# Learning\Abstract\Abstract\obj\Debug\net6.0\ref\Abstract.dll
