@@ -1,0 +1,15 @@
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.exe
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.deps.json
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.runtimeconfig.json
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.dll
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.pdb
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.AssemblyReference.cache
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfoInputs.cache
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfo.cs
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.CoreCompileInputs.cache
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.dll
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\refint\ReadFromTextFile.dll
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.pdb
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.genruntimeconfig.cache
+H:\C# Learning\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ref\ReadFromTextFile.dll
