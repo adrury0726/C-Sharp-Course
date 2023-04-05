@@ -1,0 +1,15 @@
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.exe
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.deps.json
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.runtimeconfig.json
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.dll
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.pdb
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.AssemblyReference.cache
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfo.cs
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.dll
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\refint\InheritanceChallenge2.dll
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.pdb
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.genruntimeconfig.cache
+H:\C# Learning\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\ref\InheritanceChallenge2.dll
