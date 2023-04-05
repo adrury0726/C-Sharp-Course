@@ -1,0 +1,15 @@
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\bin\Debug\net6.0\IEnumerableExample2.exe
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\bin\Debug\net6.0\IEnumerableExample2.deps.json
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\bin\Debug\net6.0\IEnumerableExample2.runtimeconfig.json
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\bin\Debug\net6.0\IEnumerableExample2.dll
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\bin\Debug\net6.0\IEnumerableExample2.pdb
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.csproj.AssemblyReference.cache
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.AssemblyInfoInputs.cache
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.AssemblyInfo.cs
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.csproj.CoreCompileInputs.cache
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.dll
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\refint\IEnumerableExample2.dll
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.pdb
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\IEnumerableExample2.genruntimeconfig.cache
+H:\C# Learning\IEnumerableExample2\IEnumerableExample2\obj\Debug\net6.0\ref\IEnumerableExample2.dll
