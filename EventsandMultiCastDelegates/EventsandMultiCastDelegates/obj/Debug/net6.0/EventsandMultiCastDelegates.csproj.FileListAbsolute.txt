@@ -1,0 +1,15 @@
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\bin\Debug\net6.0\EventsandMultiCastDelegates.exe
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\bin\Debug\net6.0\EventsandMultiCastDelegates.deps.json
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\bin\Debug\net6.0\EventsandMultiCastDelegates.runtimeconfig.json
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\bin\Debug\net6.0\EventsandMultiCastDelegates.dll
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\bin\Debug\net6.0\EventsandMultiCastDelegates.pdb
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.csproj.AssemblyReference.cache
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.AssemblyInfoInputs.cache
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.AssemblyInfo.cs
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.csproj.CoreCompileInputs.cache
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.dll
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\refint\EventsandMultiCastDelegates.dll
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.pdb
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\EventsandMultiCastDelegates.genruntimeconfig.cache
+H:\C# Learning\EventsandMultiCastDelegates\EventsandMultiCastDelegates\obj\Debug\net6.0\ref\EventsandMultiCastDelegates.dll
