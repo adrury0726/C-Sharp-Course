@@ -1,0 +1,15 @@
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+H:\C# Learning\Enums\Enums\bin\Debug\net6.0\Enums.exe
+H:\C# Learning\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+H:\C# Learning\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+H:\C# Learning\Enums\Enums\bin\Debug\net6.0\Enums.dll
+H:\C# Learning\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.dll
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+H:\C# Learning\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
