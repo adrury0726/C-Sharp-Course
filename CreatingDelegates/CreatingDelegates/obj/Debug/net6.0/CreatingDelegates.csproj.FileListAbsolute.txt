@@ -1,0 +1,15 @@
+H:\C# Learning\CreatingDelegates\CreatingDelegates\bin\Debug\net6.0\CreatingDelegates.exe
+H:\C# Learning\CreatingDelegates\CreatingDelegates\bin\Debug\net6.0\CreatingDelegates.deps.json
+H:\C# Learning\CreatingDelegates\CreatingDelegates\bin\Debug\net6.0\CreatingDelegates.runtimeconfig.json
+H:\C# Learning\CreatingDelegates\CreatingDelegates\bin\Debug\net6.0\CreatingDelegates.dll
+H:\C# Learning\CreatingDelegates\CreatingDelegates\bin\Debug\net6.0\CreatingDelegates.pdb
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.csproj.AssemblyReference.cache
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.AssemblyInfoInputs.cache
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.AssemblyInfo.cs
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.csproj.CoreCompileInputs.cache
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.dll
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\refint\CreatingDelegates.dll
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.pdb
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\CreatingDelegates.genruntimeconfig.cache
+H:\C# Learning\CreatingDelegates\CreatingDelegates\obj\Debug\net6.0\ref\CreatingDelegates.dll
