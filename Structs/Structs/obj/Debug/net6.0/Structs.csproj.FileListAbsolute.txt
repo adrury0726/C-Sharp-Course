@@ -1,0 +1,15 @@
+H:\C# Learning\Structs\Structs\bin\Debug\net6.0\Structs.exe
+H:\C# Learning\Structs\Structs\bin\Debug\net6.0\Structs.deps.json
+H:\C# Learning\Structs\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+H:\C# Learning\Structs\Structs\bin\Debug\net6.0\Structs.dll
+H:\C# Learning\Structs\Structs\bin\Debug\net6.0\Structs.pdb
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.dll
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\refint\Structs.dll
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.pdb
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+H:\C# Learning\Structs\Structs\obj\Debug\net6.0\ref\Structs.dll
