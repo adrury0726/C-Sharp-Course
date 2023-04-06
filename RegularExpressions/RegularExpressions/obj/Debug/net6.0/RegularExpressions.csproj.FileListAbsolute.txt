@@ -1,0 +1,15 @@
+H:\C# Learning\RegularExpressions\RegularExpressions\bin\Debug\net6.0\RegularExpressions.exe
+H:\C# Learning\RegularExpressions\RegularExpressions\bin\Debug\net6.0\RegularExpressions.deps.json
+H:\C# Learning\RegularExpressions\RegularExpressions\bin\Debug\net6.0\RegularExpressions.runtimeconfig.json
+H:\C# Learning\RegularExpressions\RegularExpressions\bin\Debug\net6.0\RegularExpressions.dll
+H:\C# Learning\RegularExpressions\RegularExpressions\bin\Debug\net6.0\RegularExpressions.pdb
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.csproj.AssemblyReference.cache
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.AssemblyInfoInputs.cache
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.AssemblyInfo.cs
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.csproj.CoreCompileInputs.cache
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.dll
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\refint\RegularExpressions.dll
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.pdb
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\RegularExpressions.genruntimeconfig.cache
+H:\C# Learning\RegularExpressions\RegularExpressions\obj\Debug\net6.0\ref\RegularExpressions.dll
