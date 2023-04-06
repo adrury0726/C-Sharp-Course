@@ -1,0 +1,15 @@
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+H:\C# Learning\Math\Math\bin\Debug\net6.0\Math.exe
+H:\C# Learning\Math\Math\bin\Debug\net6.0\Math.deps.json
+H:\C# Learning\Math\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+H:\C# Learning\Math\Math\bin\Debug\net6.0\Math.dll
+H:\C# Learning\Math\Math\bin\Debug\net6.0\Math.pdb
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.dll
+H:\C# Learning\Math\Math\obj\Debug\net6.0\refint\Math.dll
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.pdb
+H:\C# Learning\Math\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+H:\C# Learning\Math\Math\obj\Debug\net6.0\ref\Math.dll
